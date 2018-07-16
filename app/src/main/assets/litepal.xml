@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="caicai_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.caicaiweather.db.Province"/>
+        <mapping class="com.example.caicaiweather.db.City"/>
+        <mapping class="com.example.caicaiweather.db.County"/>
+
+    </list>
+    </litepal>
